@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "slug": "coder",
+        "des":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed placeat id vel voluptatum reprehenderit possimus ipsum sit molestias earum enim voluptates officiis mollitia reiciendis perferendis accusantium fugit impedit architecto suscipit!"
+      },
+      {
+        "id": 2,
+        "name": "Best Coding Practices",
+        "email": "Jane Smith@gmail.com",
+        "slug": "best-coding-practices"
+      },
+      {
+        "id": 3,
+        "name": "Wireless Mouse",
+        "email": "techBrand@gmail.com",
+        "slug": 29.99
+      }
+]
