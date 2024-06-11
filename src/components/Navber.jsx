@@ -26,6 +26,10 @@ const Navber = () => {
       name: "Categories",
       path: "/categories",
     },
+    {
+      name: "Dashboard",
+      path: "/dashboard",
+    },
   ];
 
   const handleClick = () => {
