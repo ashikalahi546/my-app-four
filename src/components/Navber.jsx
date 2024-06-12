@@ -30,6 +30,10 @@ const Navber = () => {
       name: "Dashboard",
       path: "/dashboard",
     },
+    {
+      name: "Posts",
+      path: "/posts",
+    },
   ];
 
   const handleClick = () => {
